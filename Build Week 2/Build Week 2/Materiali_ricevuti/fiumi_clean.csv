@@ -1,0 +1,22 @@
+Ripartizioni; Regioni_2019;Macrobenthos_2019;Diatomee_2019;Pesci_2019;Macrobenthos_2020;Diatomee_2020;Pesci_2020
+Nord;Piemonte ;66;49;;64;46;
+Nord;Valle d'Aosta;29;27;;28;23;
+Nord;Lombardia ;108;116;20;67;49;
+Nord;Trentino-Alto Adige ;27;28;52;34;35;
+Nord;Veneto ;57;27;;68;24;
+Nord;Friuli-Venezia Giulia ;68;50;24;5;5;4
+Nord;Liguria ;51;51;;44;44;
+Nord;Emilia-Romagna ;45;49;;36;25;
+Nord;Toscana ;89;69;;49;48;
+Nord;Umbria ;18;12;;13;8;
+Centro;Marche ;28;23;;38;29;
+Centro;Lazio ;44;27;;36;22;
+Centro;Abruzzo ;;;;;;
+Centro;Molise ;7;7;7;3;3;2
+Sud;Campania ;26;14;;20;6;
+Sud;Puglia ;13;13;9;8;8;1
+Sud;Basilicata ;;;;43;35;
+Sud;Calabria ;;;;;;
+Sud;Sicilia ;5;5;;;;
+Sud;Sardegna ;38;61;;47;61;
+TOTALE;ITALIA ;719;628;112;603;471;15
